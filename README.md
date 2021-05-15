@@ -1,4 +1,4 @@
-# Kitravee-Resume
+# We-Are-Resume
 The most important is your profile content. enjoy :)\
 Free sharing resume project. After I took the time to create the resume I find the fit one, so I want to share it. :)
 
