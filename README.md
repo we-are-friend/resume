@@ -24,7 +24,7 @@ All feedback is welcome.
 3) Enjoy creating your own RESUME 😃
 
 ## Share your resume
-1) Once you are happy with everything, click **"Share"** at the right top corner. 
+1) Once you are happy with everything, click **"Share"** at the top right corner. 
 
 ![alt tag](https://github.com/kitravee/resume/blob/master/images/how-to-share-1.png)
 
