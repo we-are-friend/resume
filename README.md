@@ -10,7 +10,6 @@ All feedback is welcome.
 ## Preview
 **[Version Beta Dark theme](https://docs.google.com/document/d/1g5_bysia4d0BArsprQNefQ36bdtHHkSa6HGyrMK1N48/edit?usp=sharing)**\
 <img src="https://github.com/kitravee/resume/blob/master/images/PreviewDarkTheme.png" width="350">\
-**[Version1](https://docs.google.com/document/d/1dhjeDxdO8NaXcGA6uPxNuhGjhpY14966TdpyIgn5bNA/edit?usp=sharing)**\
 <img src="https://github.com/kitravee/resume/blob/master/images/Preview.png" width="350">\
 **[Version2](https://docs.google.com/document/d/1XfCX5UAiPKk-nRt4Q_OOQNRa1pjB_1OWEHtfdFi6TjI/edit?usp=sharing)**\
 <img src="https://github.com/kitravee/resume/blob/master/images/Preview2.png" width="350">
